@@ -1,0 +1,52 @@
+{"frames": [
+
+{
+	"filename": "general/keyDisabled",
+	"frame": {"x":2,"y":2,"w":50,"h":60},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":60},
+	"sourceSize": {"w":50,"h":60}
+},
+{
+	"filename": "general/keyDown",
+	"frame": {"x":56,"y":2,"w":50,"h":60},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":60},
+	"sourceSize": {"w":50,"h":60}
+},
+{
+	"filename": "general/keyUp",
+	"frame": {"x":110,"y":2,"w":50,"h":60},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":60},
+	"sourceSize": {"w":50,"h":60}
+},
+{
+	"filename": "general/rematchDown",
+	"frame": {"x":2,"y":66,"w":93,"h":99},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":93,"h":99},
+	"sourceSize": {"w":93,"h":99}
+},
+{
+	"filename": "general/rematchUp",
+	"frame": {"x":99,"y":66,"w":93,"h":99},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":93,"h":99},
+	"sourceSize": {"w":93,"h":99}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "general.png",
+	"format": "RGBA8888",
+	"size": {"w":194,"h":167},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:3ef223556b8b4bdbd90698e3c650bf13:a3a9a99cca89178c5e54dfc657575eea:49afdaefc8003509a7dad15a6a269fdc$"
+}
+}
